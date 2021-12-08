@@ -2,5 +2,5 @@
 - President of Grand Canyon Game Design @GrandCanyonUniversity
 - 👀 I’m interested in gameplay logic development and AI.
 - 🌱 I’m currently learning GoLang, its pretty cool I also am finishing up my Bachelors in COMP SCI
-- 💞️ I’m looking to collaborate on Anything that peaks my interest, hmu
+- 💞️ I’m looking to collaborate on Anything that piques my interest, hmu
 - 📫 JCorcho@my.gcu.edu
